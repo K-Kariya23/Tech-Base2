@@ -1,0 +1,115 @@
+
+
+/* body全体の処理 */
+body.body{
+    background-color: #232323;
+}
+
+div.main{
+    padding: 2% 10% 2%;
+}
+
+
+/* navbar部分の処理 */
+div.navbar{
+    background-color: #F69F8E;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.navbar > h2{
+    color: #F5F5F5;
+    padding-left: 2%;
+}
+
+div.navbar > div.col-6 > h2{
+    color: #F5F5F5;
+    padding-left: 2%;
+}
+
+a.navbar-a{
+    color: #F5F5F5;
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+/* title部分の処理 */
+div.title{
+    padding: 5% 0%;
+    color: #F5F5F5;
+}
+
+div.title > h1{
+    font-size: 80px;
+    text-decoration:underline;
+}
+
+/* CRUD部分の処理 */
+div.main > div.crud{
+    background-color: #D9D9D9;
+    padding: 2% 0%;
+}
+
+div.main > div.recentgame > div{
+    margin: 2% 2%;
+    padding: 20px 20px;
+    background-color: #434343;
+    color: white;
+}
+
+div.recentgame{
+    font-size: 200%;
+    padding-right: 0px;
+}
+
+div.crud > div.container{
+    margin-right: 0px;
+}
+
+
+
+/* form部分の処理 */
+div.form-container{
+    text-align: center;
+    width: 80%;
+}
+
+form{
+    font-size: 35px;
+}
+
+div.form-input{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+div.label1{
+    background-color: #464646;
+    color: white;
+    height: 60px;
+}
+
+div.label2{
+    background-color: #F69F8E;
+    color: white;
+    height: 60px;
+}
+
+div.label3{
+    background-color: #232323;
+    color: white;
+    height: 60px;
+}
+
+input.input{
+    height: 60px;
+}
+
+input.form-btn-submit{
+    background-color: #F3785F;
+    color: white;
+    margin: 80px;
+    padding: 0px 40px;
+    font-size: 30px;
+}
