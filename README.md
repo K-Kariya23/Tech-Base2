@@ -2,6 +2,7 @@
 This is something I made as an intern at Tech-Base. It is an application for mahjong circles and mahjong parlors to keep track of scores. Users can set a room name and password, and an administrator password to easily share the information with friends who know the password. 
 
 # Screenshot of each page
+非公開のアプリケーションのため, 各ページのスクリーンショットを掲載します.
 
 ## LOGIN
 ![Login](https://user-images.githubusercontent.com/84004458/126787302-b09c2882-0377-4cf9-97fc-c08c5c79c49e.png)
@@ -20,3 +21,8 @@ This is something I made as an intern at Tech-Base. It is an application for mah
 
 ## ADMIN EDIT GAMES
 ![ADMINEEditGame](https://user-images.githubusercontent.com/84004458/126787705-c31028fd-729d-4cb6-a7d9-941d7a235281.png)
+
+# Future Prospects
+In the future, we would like to improve this application to make it more user-friendly.
+
+There is also a possibility that I will release the service when it is completed.
